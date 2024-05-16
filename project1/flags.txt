@@ -6,3 +6,15 @@ CY2550_FLAG_2{pmowjldlbyfxft3dg9ymq1d8ao1sgpo2}
 
 Level 3
 CY2550_FLAG_3{kvpkaxhzfey1efm92mo57v6v3kicdpbw}
+
+Level 4
+CY2550_FLAG_4{h75ao3bn5flu8eyjt25hoqu8dcw9awrx}
+
+Level 5
+CY2550_FLAG_5{qcnv3pfsaqhokjxe1ns1ctera445m3rj}
+
+Level 6
+CY2550_FLAG_6{hd3zeezz0r6edd1aeq7uiw83ct55x1ma}
+
+Level 7
+CY2550_FLAG_7{dkhwdpyg8dmqwg4gp9ykha5wgha7i69l}
